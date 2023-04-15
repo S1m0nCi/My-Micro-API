@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/S1m0nCi/My-Micro-API/issues"
   },
-  "homepage": "https://github.com/S1m0nCi/My-Micro-API#readme"
+  "homepage": "https://github.com/S1m0nCi/My-Micro-API#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
