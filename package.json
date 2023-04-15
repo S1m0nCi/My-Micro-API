@@ -1,0 +1,24 @@
+{
+  "name": "my-micro-api",
+  "version": "1.0.0",
+  "description": "my first api, for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S1m0nCi/My-Micro-API.git"
+  },
+  "keywords": [
+    "MicroAPI",
+    "First",
+    "API"
+  ],
+  "author": "Simon Ciavarro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/S1m0nCi/My-Micro-API/issues"
+  },
+  "homepage": "https://github.com/S1m0nCi/My-Micro-API#readme"
+}
